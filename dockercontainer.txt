@@ -1,0 +1,1 @@
+docker run -p 80:80 -v "/home/dsantarriaga/Documentos/DESARROLLO/PHP/miweb/dist":/var/www/html --name=miweb -d php:7.0-apache
